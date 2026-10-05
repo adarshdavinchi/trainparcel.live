@@ -1,0 +1,80 @@
+# Default crawlers (Google, Bing, etc.)
+User-agent: *
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+# AI Search Engine Crawlers — allow public pages
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+User-agent: Anthropic-ai
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
+
+Sitemap: https://trainmate.in/sitemap.xml
