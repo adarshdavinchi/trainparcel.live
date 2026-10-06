@@ -1,59 +1,40 @@
-# TrainMate
+# TrainParcel
 
-> India's first verified travel companion platform for train passengers.
+> India's premier peer-to-peer train parcel logistics and courier platform.
 
-TrainMate is a free Android app that helps Indian Railways passengers find verified co-travelers on the same train. Users can chat securely in-app, split cab fares at stations, coordinate seat swaps, track PNR status, and make lasting friendships — all without sharing personal contact details. Built for the 8+ billion annual Indian Railways passengers.
+TrainParcel is a peer-to-peer logistics app and web platform connecting parcel senders with verified train passengers traveling on the same railway route. Passengers traveling with spare luggage capacity can earn extra money by delivering packages safely between stations, while senders enjoy same-day or next-day express delivery without costly logistics delays.
 
 ## Core Features
-- Verified passenger matching via PNR confirmation
-- Secure encrypted in-app chat (no phone number sharing)
-- Cab fare splitting coordination at stations
-- Real-time PNR status tracking with platform & coach updates
-- Gamified trust system with profile badges and reputation points
-- Works on all Indian Railways trains: Rajdhani, Shatabdi, Duronto, Express, and more
+- Verified train traveler matching for parcel delivery
+- Baggage carrying capacity marketplace (earn per kg while traveling)
+- Secure encrypted in-app chat for coordination (station gate / platform meetups)
+- OTP-verified secure pickup and delivery handover
+- Real-time train tracking and journey status updates
+- Railway luggage rules compliance and forbidden goods protection
+- Works across all major Indian Railways routes and trains
 
 ## Links
-- [Homepage](https://trainmate.in/)
-- [About TrainMate](https://trainmate.in/about)
-- [Contact & Support](https://trainmate.in/contact)
-- [Blog](https://trainmate.in/blog)
-- [Privacy Policy](https://trainmate.in/privacy-policy)
-- [Download on Google Play](https://play.google.com/store/apps/details?id=com.adarshdavinchi.trainmate)
-
-## Blog Articles
-- [Tatkal Ticket Booking: Rules, Timings, Charges & Confirmation Hacks](https://trainmate.in/blog/tatkal-ticket-booking-guide)
-- [Vande Bharat Express Complete Guide: Routes, Food Menu, Luggage & Seat Rules](https://trainmate.in/blog/vande-bharat-express-guide)
-- [How to Survive & Enjoy a 24-Hour Train Journey](https://trainmate.in/blog/long-train-journey-timepass-guide)
-- [TrainMate AI: 24/7 Smart Copilot for Indian Railways](https://trainmate.in/blog/trainmate-ai-railway-companion-guide)
-- [Incognito Mode & Profile Privacy Guide](https://trainmate.in/blog/privacy-and-incognito-mode-guide)
-- [How to Find Travel Companions on Indian Trains](https://trainmate.in/blog/find-travel-companions)
-- [Smart In-App Chat Guide for Train Passengers](https://trainmate.in/blog/smart-in-app-chat-guide)
-- [Complete PNR Status Guide for Indian Railways](https://trainmate.in/blog/pnr-status-guide)
-- [Train Travel Safety Tips for Indian Railways](https://trainmate.in/blog/train-travel-safety-tips)
-- [Best Train Travel Apps in India](https://trainmate.in/blog/best-train-travel-apps)
-- [How to Split Cabs & Autos at Indian Railway Stations: Safe Night & Morning Arrivals](https://trainmate.in/blog/station-cab-sharing-guide)
-- [IRCTC Executive Lounges & Station Waiting Rooms: Rates, Free Cards & Safe Co-Waiting](https://trainmate.in/blog/railway-station-lounges-layovers-guide)
+- [Homepage](https://trainparcel.com/)
+- [About TrainParcel](https://trainparcel.com/about)
+- [Contact & Support](https://trainparcel.com/contact)
+- [Privacy Policy](https://trainparcel.com/privacy-policy)
 
 ## Frequently Asked Questions
 
-### What is TrainMate?
-TrainMate is a free Android app that helps Indian Railways passengers find verified co-travelers on the same train. Users can chat securely, split cab fares, coordinate seat swaps, and make friends — all without sharing personal contact details.
+### What is TrainParcel?
+TrainParcel is a peer-to-peer delivery platform connecting people who need to send parcels with train passengers traveling along that route who have available luggage capacity.
 
-### How does passenger verification work?
-TrainMate verifies users through PNR confirmation, ensuring they have a valid ticket on the same train. Profile verification badges indicate confirmed travelers, giving you confidence that your matches are real co-passengers.
+### How does carrier verification work?
+TrainParcel verifies train travelers using train booking verification, OTP handovers, and community trust badges so senders can trust carriers with their packages.
 
-### Is TrainMate free?
-Yes, all core features — including co-traveler matchmaking, PNR status tracking, and group chat — are 100% free. TrainMate aims to build a clean railway community across India.
+### What items can be sent?
+Senders can ship documents, books, electronics, clothing, and everyday non-hazardous items. Hazardous materials, flammable liquids, explosives, alcohol, and contraband prohibited under the Indian Railways Act are strictly forbidden.
 
-### Is my personal information safe?
-TrainMate never shares your mobile number, exact seat number, or personal credentials with others. All communication happens in-app via encrypted chat. Your privacy is always protected.
-
-### Which trains does TrainMate support?
-TrainMate covers all Indian Railways trains including Rajdhani, Shatabdi, Duronto, Express, and local trains. Simply add your PNR or train number and the app matches you with fellow passengers.
+### How does payment and handover work?
+Senders and carriers connect directly via in-app chat to confirm weight, price, and handover location at the departure and arrival railway stations. Handover is verified with secure OTPs.
 
 ## Technical Details
-- Platform: Android (Google Play Store)
-- Web: https://trainmate.in
-- Package: com.adarshdavinchi.trainmate
-- Category: Travel & Local
-- Price: Free
+- Platform: Web (https://trainparcel.com) & Android
+- Package: com.trainparcel.app
+- Category: Logistics & Travel
+- Price: Free to connect

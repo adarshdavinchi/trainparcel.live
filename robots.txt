@@ -77,4 +77,4 @@ Disallow: /feedback
 Disallow: /admin
 Disallow: /trip/
 
-Sitemap: https://trainmate.in/sitemap.xml
+Sitemap: https://trainparcel.com/sitemap.xml
