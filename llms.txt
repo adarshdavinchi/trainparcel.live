@@ -6,7 +6,7 @@ TrainParcel is a peer-to-peer logistics app and web platform connecting parcel s
 
 ## Core Features
 - Verified train traveler matching for parcel delivery
-- Baggage carrying capacity marketplace (earn per kg while traveling)
+- Baggage carrying capacity marketplace (earn travel rewards while traveling)
 - Secure encrypted in-app chat for coordination (station gate / platform meetups)
 - OTP-verified secure pickup and delivery handover
 - Real-time train tracking and journey status updates
